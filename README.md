@@ -3,7 +3,7 @@ Target: Learning journey to become a Python fullstack developer (6 months)
 
 
 ## Progress
-- [ ] Week 1: Python basics
+- [ ] Week 1: Setting up the git and Python basics
 - [ ] Week 2: Functions, tests
 - [ ] Week 3: CLI project
 ...
